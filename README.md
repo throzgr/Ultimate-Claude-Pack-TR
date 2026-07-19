@@ -84,3 +84,17 @@
 
 # MIT License
 
+\## Mevcut Özellikler
+
+
+
+\- BMW Teknik Uzmanı
+
+\- Tarım Mevzuatı Uzmanı
+
+\- Deep Research
+
+\- Resmî Yazışma
+
+\- Türkçe Optimize
+
