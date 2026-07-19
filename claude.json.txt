@@ -1,0 +1,13 @@
+{
+  "name": "Ultimate-Claude-Pack-TR",
+  "version": "0.1.0",
+  "description": "Professional Claude Code toolkit for Turkish users",
+  "language": "tr",
+  "skills_path": "./skills",
+  "agents_path": "./agents",
+  "prompts_path": "./prompts",
+  "mcp_path": "./mcp",
+  "templates_path": "./templates",
+  "hooks_path": "./hooks",
+  "scripts_path": "./scripts"
+}
